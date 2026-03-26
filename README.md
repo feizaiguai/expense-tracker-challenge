@@ -1,6 +1,6 @@
-# expense-tracker-challenge
+# Expense Tracker Challenge
 
-Build an expense tracker app to log, categorize and visualize your spending
+Create an expense tracker with categories, charts, and budget alerts using local storage
 
 ## Built by
 Daomei AI Assistant 🤖
